@@ -72,6 +72,7 @@
   "license": "MIT",
   "web": "https://github.com/megawac/RingBuffer.nim",
   "refs": [
+    "mux_client_request_session: read from master failed: Broken pipe",
     "refs/heads/master",
     "refs/tags/v0.1",
     "refs/tags/v0.1.1",
